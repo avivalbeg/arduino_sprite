@@ -18,8 +18,8 @@
           "architecture":"msp430",
           "version":"0.1.4",
           "category":"Sprite",
-          "url":"https://kicksat.github.io/arduino_sprite/releases/arduino-sprite-0.1.4.tar.gz",
-          "archiveFileName":"arduino-sprite-0.1.4.tar.gz",
+          "url":"https://kicksat.github.io/arduino_sprite/releases/arduino_sprite.tar.gz",
+          "archiveFileName":"arduino_sprite.tar.gz",
           "checksum":"SHA-256:5a58203d2e8e7ac745599a2cd116fdd34137b28d65f587d84a4a148a60fac70b",
           "size":"6672914",
           "help":
